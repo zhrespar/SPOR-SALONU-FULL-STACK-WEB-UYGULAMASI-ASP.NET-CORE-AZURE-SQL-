@@ -53,7 +53,5 @@ Designed using proper normalization and foreign key constraints.
 
 The application is connected to **Azure SQL Database** for cloud-based data management.
 
-Connection string configuration is handled via:
 
-```json
-appsettings.json
+
